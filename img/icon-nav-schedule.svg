@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="58" height="58" viewBox="0 0 58 58">
+  <g id="icon-schedule" transform="translate(15862 16158)">
+    <g id="schedule_b" data-name="schedule b" transform="translate(-15859 -16152)">
+      <path id="パス_5008" data-name="パス 5008" d="M1409.376,159.209h-52.06V116.361h52.06Zm-49.554-2.5h47.048V118.867h-47.048Z" transform="translate(-1357.316 -112.853)"/>
+      <rect id="長方形_1788" data-name="長方形 1788" width="49.554" height="2.506" transform="translate(1.253 13.97)"/>
+      <g id="グループ_7296" data-name="グループ 7296" transform="translate(11.214 0)">
+        <rect id="長方形_1789" data-name="長方形 1789" width="2.506" height="10.023"/>
+        <rect id="長方形_1790" data-name="長方形 1790" width="2.506" height="10.023" transform="translate(27.127)"/>
+      </g>
+      <g id="グループ_7297" data-name="グループ 7297" transform="translate(10.274 21.3)">
+        <rect id="長方形_1791" data-name="長方形 1791" width="6.578" height="6.578"/>
+        <rect id="長方形_1792" data-name="長方形 1792" width="6.578" height="6.578" transform="translate(12.467)"/>
+        <rect id="長方形_1793" data-name="長方形 1793" width="6.578" height="6.578" transform="translate(24.871)"/>
+        <rect id="長方形_1794" data-name="長方形 1794" width="6.578" height="6.578" transform="translate(0 10.963)"/>
+        <rect id="長方形_1795" data-name="長方形 1795" width="6.578" height="6.578" transform="translate(12.467 10.963)"/>
+        <rect id="長方形_1796" data-name="長方形 1796" width="6.578" height="6.578" transform="translate(24.871 10.963)"/>
+      </g>
+    </g>
+    <rect id="長方形_2415" data-name="長方形 2415" width="58" height="58" transform="translate(-15862 -16158)" fill="none"/>
+  </g>
+</svg>

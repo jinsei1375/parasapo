@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="icon-sportsx-new" transform="translate(-210 -926)">
+    <path id="パス_4987" data-name="パス 4987" d="M60,30A30.1,30.1,0,1,0,40.276,58.155L58.155,40.276A29.877,29.877,0,0,0,60,30" transform="translate(210 926)" fill="#3d51c1"/>
+    <path id="パス_4988" data-name="パス 4988" d="M40.276,58.155,58.155,40.276A30.03,30.03,0,0,0,40.276,58.155" transform="translate(210 926)" fill="#f0473e"/>
+    <g id="グループ_7991" data-name="グループ 7991" transform="translate(2.139 1.039)">
+      <path id="パス_4992" data-name="パス 4992" d="M12.975,21.73h2.189l2.885,6.779V21.73h2.573V35.808h-2.1l-2.885-7.3v7.3H12.975Z" transform="translate(210.395 926.192)" fill="#fff"/>
+      <path id="パス_4993" data-name="パス 4993" d="M24.936,21.73h6.327v2.121H28.047v3.492H30.5V29.5H28.047V33.7H31.3v2.1H24.936Z" transform="translate(208.615 926.192)" fill="#fff"/>
+      <path id="パス_4994" data-name="パス 4994" d="M33.9,21.73h2.642l.835,8.2,1.06-8.187H40.5l1.112,8.135.853-8.151h2.606L43.384,35.808h-2.71l-1.2-8.5-1.13,8.5H35.6Z" transform="translate(207.281 926.192)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
